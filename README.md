@@ -1,4 +1,6 @@
 # Advance_Notes
+
+
 A modern and feature-rich notes application built for speed, productivity, and a clean user experience. This project combines elegant UI design with powerful note management features to create a smooth and efficient workspace for daily note-taking.
 
 ✨ Features
@@ -25,4 +27,7 @@ Clean and maintainable code structure
 Fully customizable theme experience
 
 Feel free to fork, star, and contribute to the project!
+
+
+
 ![image alt](https://github.com/pruthviwithlappi-ship-it/Advance_Notes/blob/main/Screenshot%202026-05-10%20110117.png?raw=true)
